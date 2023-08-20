@@ -1,0 +1,5 @@
+{{#user}}
+Name: Varun Kumar
+Skills: HTML, CSS, bootstrap, JS, Node.js, Express.js,python
+Email: varunbharadwaj444gmail.com
+{{/user}}
